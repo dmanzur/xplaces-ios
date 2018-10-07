@@ -1,0 +1,6 @@
+framework module Pods_Xplaces {
+  umbrella header "Pods-Xplaces-umbrella.h"
+
+  export *
+  module * { export * }
+}
